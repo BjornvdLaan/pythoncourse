@@ -4,14 +4,14 @@
 Morning:
 - Introduction to programming in Python
   - Presentation about what Python is
-  - Live-coding demo (run a programme, comments, functions, indentation, for loops, if/elif/else statements, while loops)
+  - Live-coding demo (run a programme, for loops, indentation, comments, functions, if/elif/else statements, while loops)
   - Hands-on robot programming
 - Explanation of Python use-cases within ING (Remco, Wouter, ...)
 
 Lunch
 
 Afternoon:
-- Presentation of Innovation KPI's
+- Presentation of Innovation KPI's (Robbert van Genuchteren)
 - Introduction to Jupyter notebooks
   - How to execute cells
   - Edit/view mode
@@ -24,3 +24,11 @@ Afternoon:
   - Material will still be available after course
   - Think about how to use Python within your team, put it in your KPI's
   - ...
+
+# To do before 8th January
+- [ ] Order lunch
+- [ ] Print cheat-sheet for robot programming
+- [ ] Prepare Python use-case presentation
+- [ ] Prepare introduction to Jupyter Notebooks
+- [ ] Reconsider afternoon set-up
+- [ ] Prepare closing remarks
