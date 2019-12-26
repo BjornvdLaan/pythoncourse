@@ -2,7 +2,10 @@
 
 ## Programme
 Morning:
-- Introduction to programming in Python (robot)
+- Introduction to programming in Python
+  - Presentation about what Python is
+  - Live-coding demo (run a programme, comments, functions, indentation, for loops, if/elif/else statements, while loops)
+  - Hands-on robot programming
 - Explanation of Python use-cases within ING (Remco, Wouter, ...)
 
 Lunch
