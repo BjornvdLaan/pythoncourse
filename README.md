@@ -25,7 +25,7 @@ Afternoon:
   - Think about how to use Python within your team, put it in your KPI's
   - ...
 
-# To do before 8th January
+## To do before 8th January
 - [ ] Order lunch
 - [x] Print cheat-sheet for robot programming
 - [ ] Prepare Python use-case presentation
