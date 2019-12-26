@@ -1,14 +1,15 @@
 # Python beginners course
 
-## Course set-up
+## Programme
 Morning:
 - introduction to programming in Python (robot)
-- explanation of Python use-cases within ING
+- explanation of Python use-cases within ING (Remco, Wouter, ...)
+
+Lunch
 
 Afternoon:
-- hands-on session on NumPy, Pandas, Matplotlib and Scikit.
-
-## To do
-- Include a sheet where we talk about how to use Jupyter Notebooks (Ctrl+Enter to execute cell, Shift+Enter to execute & go to the next one).
-- Edit/View mode
-- Explain at the start of afternoon session that people should think what the output of a cell is going to be before they execute is
+- Presentation of Innovation KPI's
+- Intro to Jupyter notebooks (i.e. how to execute cells, edit/view mode)
+- Intro to exercises
+  - Think about what a cell is going to do before executing it.
+- Hands-on session on NumPy, Pandas, Matplotlib and Scikit.
