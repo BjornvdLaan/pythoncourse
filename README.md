@@ -26,5 +26,5 @@ Afternoon:
   - ...
 
 # To do before 8th January
-[ ] Order lunch
-[ ] Print cheat-sheet for robot programming
+- [ ] Order lunch
+- [ ] Print cheat-sheet for robot programming
