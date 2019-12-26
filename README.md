@@ -27,7 +27,7 @@ Afternoon:
 
 # To do before 8th January
 - [ ] Order lunch
-- [ ] Print cheat-sheet for robot programming
+- [x] Print cheat-sheet for robot programming
 - [ ] Prepare Python use-case presentation
 - [ ] Prepare introduction to Jupyter Notebooks
 - [ ] Reconsider afternoon set-up
