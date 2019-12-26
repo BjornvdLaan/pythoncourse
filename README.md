@@ -20,3 +20,7 @@ Afternoon:
   - Ask questions if you're stuck
   - Show your answers if you were able to solve a question
 - Hands-on session on NumPy, Pandas, Matplotlib and Scikit.
+- Closing remarks
+  - Material will still be available after course
+  - Think about how to use Python within your team, put it in your KPI's
+  - ...
