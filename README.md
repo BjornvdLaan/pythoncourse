@@ -29,14 +29,15 @@ Afternoon:
   - ...
 
 ## To do before 8th January
-- [ ] Order lunch (Bjorn)
+- [ ] Order lunch & drinks (Bjorn)
 - [x] Print cheat-sheet for robot programming
-- [ ] Prepare Python use-case presentation (Bjorn to ask Remco/Joeri)
+- [ ] Prepare Python use-case presentation (Bjorn to ask Remco/Joeri, Wouter)
 - [ ] Prepare introduction to Jupyter Notebooks/Afternoon session (Kei Weong)
 - [ ] Prepare closing remarks (tips/tops/picture/material remains available/...) (Bjorn)
 - [ ] Arrange power situation @ room (Bjorn)
-- [ ] Prepare live coding demo for robot (BJorn & Wouter)
+- [ ] Prepare live coding demo for robot (Bjorn & Wouter)
 - [ ] Invite extra people (Bjorn)
 - [ ] Create time schedule and send it to everyone @ 2nd of January (Wouter)
 - [ ] Review Matplotlib & Scikit notebook (Bjorn)
 - [ ] Review Scikit notebook (Wouter)
+- [ ] Prepare KPI presentation (Robbert)
