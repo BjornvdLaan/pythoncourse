@@ -6,7 +6,10 @@ Morning:
   - Presentation about what Python is
   - Live-coding demo (run a programme, for loops, indentation, comments, functions, if/elif/else statements, while loops)
   - Hands-on robot programming
-- Explanation of Python use-cases within ING (Remco, Wouter, ...)
+- Explanation of Python use-cases within ING
+  - Kijk-vooruit
+  - Quick-pay
+  - CISO guys
 
 Lunch
 
@@ -26,9 +29,14 @@ Afternoon:
   - ...
 
 ## To do before 8th January
-- [ ] Order lunch
+- [ ] Order lunch (Bjorn)
 - [x] Print cheat-sheet for robot programming
-- [ ] Prepare Python use-case presentation
-- [ ] Prepare introduction to Jupyter Notebooks
-- [ ] Reconsider afternoon set-up
-- [ ] Prepare closing remarks
+- [ ] Prepare Python use-case presentation (Bjorn to ask Remco/Joeri)
+- [ ] Prepare introduction to Jupyter Notebooks/Afternoon session (Kei Weong)
+- [ ] Prepare closing remarks (tips/tops/picture/material remains available/...) (Bjorn)
+- [ ] Arrange power situation @ room (Bjorn)
+- [ ] Prepare live coding demo for robot (BJorn & Wouter)
+- [ ] Invite extra people (Bjorn)
+- [ ] Create time schedule and send it to everyone @ 2nd of January (Wouter)
+- [ ] Review Matplotlib & Scikit notebook (Bjorn)
+- [ ] Review Scikit notebook (Wouter)
