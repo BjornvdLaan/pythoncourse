@@ -4,7 +4,7 @@
 Morning:
 - Introduction to programming in Python
   - Presentation about what Python is
-  - Live-coding demo (run a programme, for loops, indentation, comments, functions, if/elif/else statements, while loops)
+  - Live-coding demo (run a programme, for loops, indentation, comments, functions, if/elif/else statements, while loops, conditionals)
   - Hands-on robot programming
 - Explanation of Python use-cases within ING
   - Kijk-vooruit
