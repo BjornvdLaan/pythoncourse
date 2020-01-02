@@ -36,7 +36,7 @@ Afternoon:
 - [ ] Prepare closing remarks (tips/tops/picture/material remains available/...) (Bjorn)
 - [ ] Arrange power situation @ room (Bjorn)
 - [ ] Prepare live coding demo for robot (Bjorn & Wouter)
-- [ ] Invite extra people (Bjorn)
+- [x] Invite extra people (Bjorn)
 - [ ] Create time schedule and send it to everyone @ 2nd of January (Wouter)
 - [ ] Review Matplotlib & Scikit notebook (Bjorn)
 - [ ] Review Scikit notebook (Wouter)
