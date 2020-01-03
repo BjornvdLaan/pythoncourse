@@ -43,6 +43,7 @@ Afternoon:
 - [ ] Prepare KPI presentation (Robbert)
 - [ ] Test the Binder connection
 - [ ] Include quick-pay screenshot
+- [ ] Add Matplotlib answer & Scikit answers
 
 ## Binder link:
 https://mybinder.org/v2/gh/BjornvdLaan/pythoncourse/ad39c5c1abc3a44b19b254235b635f7901edd445
