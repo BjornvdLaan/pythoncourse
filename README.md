@@ -29,15 +29,20 @@ Afternoon:
   - ...
 
 ## To do before 8th January
-- [ ] Order lunch & drinks (Bjorn)
+- [x] Order lunch & drinks (Bjorn)
 - [x] Print cheat-sheet for robot programming
-- [ ] Prepare Python use-case presentation (Bjorn to ask Remco/Joeri, Wouter)
-- [ ] Prepare introduction to Jupyter Notebooks/Afternoon session (Kei Weong)
+- [ ] Prepare Python use-case presentation (Bjorn to ask Remco/Yuriy, Wouter)
+- [x] Prepare introduction to Jupyter Notebooks/Afternoon session (Kei Weong)
 - [ ] Prepare closing remarks (tips/tops/picture/material remains available/...) (Bjorn)
-- [ ] Arrange power situation @ room (Bjorn)
-- [ ] Prepare live coding demo for robot (Bjorn & Wouter)
+- [x] Arrange power situation @ room (Bjorn)
+- [x] Prepare live coding demo for robot (Bjorn & Wouter)
 - [x] Invite extra people (Bjorn)
 - [ ] Create time schedule and send it to everyone @ 2nd of January (Wouter)
 - [ ] Review Matplotlib & Scikit notebook (Bjorn)
-- [ ] Review Scikit notebook (Wouter)
+- [x] Review Scikit notebook (Wouter)
 - [ ] Prepare KPI presentation (Robbert)
+- [ ] Test the Binder connection
+- [ ] Include quick-pay screenshot
+
+## Binder link:
+https://mybinder.org/v2/gh/BjornvdLaan/pythoncourse/ad39c5c1abc3a44b19b254235b635f7901edd445
