@@ -37,13 +37,14 @@ Afternoon:
 - [x] Arrange power situation @ room (Bjorn)
 - [x] Prepare live coding demo for robot (Bjorn & Wouter)
 - [x] Invite extra people (Bjorn)
-- [ ] Create time schedule and send it to everyone @ 2nd of January (Wouter)
+- [x] Create time schedule and send it to everyone @ 2nd of January (Wouter)
 - [ ] Review Matplotlib & Scikit notebook (Bjorn)
 - [x] Review Scikit notebook (Wouter)
 - [ ] Prepare KPI presentation (Robbert)
 - [ ] Test the Binder connection
 - [ ] Include quick-pay screenshot
-- [ ] Add Matplotlib answer & Scikit answers
+- [x] Add Matplotlib challenge answer
+- [ ] Add Scikit answers
 
 ## Binder link:
 https://mybinder.org/v2/gh/BjornvdLaan/pythoncourse/ad39c5c1abc3a44b19b254235b635f7901edd445
